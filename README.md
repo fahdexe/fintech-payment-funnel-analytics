@@ -8,7 +8,7 @@ An end to end analytics project simulating an enterprise transactional environme
 * **Business Intelligence:** Tableau Desktop (SLA Heatmaps, Dynamic Filtering)
 
 ## Live Interactive Dashboard
-👉 [Click here to view the interactive dashboard on Tableau Public]((https://public.tableau.com/app/profile/mutalib.ilyas.mohammed/viz/PaymentFunnelRouteOptimization/Sheet1))
+👉 [https://public.tableau.com/app/profile/mutalib.ilyas.mohammed/viz/PaymentFunnelRouteOptimization/Sheet1]
 
 ## Core Insights Discovered
 * Isolated a distinct systemic `SYSTEM_TIMEOUT` anomaly hitting Checkout.com in the KSA market.
